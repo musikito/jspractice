@@ -1,6 +1,6 @@
 const numbers = [67, 80, 65, 79, 86, 66, 75, 71, 81, 69, 90, 79, 68, 65, 73, 88];
 
-// 1. Convert numbers to Alphabet in order (e.g. 1 becomes A, 2 becomes B and so on)
+// 1. Convert numbers to Alphabet according to Ascii table using the fromCharCode method
 // Using the forEach method:
 // Using a for loop:
 // Using the map method:
